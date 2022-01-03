@@ -5,7 +5,7 @@
 ## Contact me: 
 
 - Personal webpage: https://olinpinto.github.io/
-- GitHub: 
+- GitHub: https://github.com/olinpinto
 - Linkedin: https://www.linkedin.com/in/olin-pinto/
 - Email: olin.pinto@desy.de
 
