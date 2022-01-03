@@ -2,7 +2,7 @@
 
 **Research**
 - Research in experimental particle physics. Check my website https://olinpinto.github.io/
-- Modelling of particle showers in highly granular calorimeters
+  -Modelling of particle showers in highly granular calorimeters
 
 
 **Programming**
