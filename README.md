@@ -1,8 +1,6 @@
-### Hi there 👋
+# Hi there 👋, Welcome to my personal git repo. 
 
-# Welcome to my personal git repo. 
-
-- **Research**
+**Research**
 - Research in experimental particle physics. Check my website https://olinpinto.github.io/
 - Modelling of particle showers in highly granular calorimeters
 
