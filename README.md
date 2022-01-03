@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Welcome to my personal git repo. 
+
+## Contact me: 
+
+- Personal webpage: https://olinpinto.github.io/
+- GitHub: 
+- Linkedin: https://www.linkedin.com/in/olin-pinto/
+- Email: olin.pinto@desy.de
+
 <!--
 **olinpinto/olinpinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
