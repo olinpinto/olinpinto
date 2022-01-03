@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my personal git repo. 
+# Welcome to my personal git repo. 
 
 ## Contact me: 
 
