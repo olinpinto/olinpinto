@@ -6,7 +6,7 @@
 
 
 **Programming**
-- C++ for physics reseach as well as data science
+- C++ for physics research as well as data science
 - Linux and bash scripting language
 
 
