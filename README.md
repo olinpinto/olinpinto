@@ -1,6 +1,7 @@
 # Hi there 👋, Welcome to my personal git repo. 
 
 **Research**
+- Exploration of Lunar and Martian environment using muon tomography 
 - Research in experimental particle physics. Check my website https://olinpinto.github.io/
 - Three-dimensional modelling of particle showers in highly granular calorimeters
 
@@ -15,7 +16,7 @@
 - Personal webpage: https://olinpinto.github.io/
 - GitHub: https://github.com/olinpinto
 - Linkedin: https://www.linkedin.com/in/olin-pinto/
-- Email: olin.pinto@desy.de
+- Email: olin.pinto@kbfi.de
 
 <!--
 **olinpinto/olinpinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
