@@ -6,17 +6,17 @@
 - Three-dimensional modelling of particle showers in highly granular calorimeters
 
 
-**Programming**
+<!-- **Programming**
 - C++ for physics research as well as data science
 - Linux and bash scripting language
+ -->
 
-
-## Contact me: 
+<!-- ## Contact me: 
 
 - Personal webpage: https://olinpinto.github.io/
 - GitHub: https://github.com/olinpinto
 - Linkedin: https://www.linkedin.com/in/olin-pinto/
-- Email: olin.pinto@kbfi.de
+- Email: olin.pinto@kbfi.de -->
 
 <!--
 **olinpinto/olinpinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
