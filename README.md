@@ -1,10 +1,11 @@
 # Hi there 👋, Welcome to my personal git repo. 
 
-**Research**
+**Current Research**
 - Monte Carlo study using GEANT4, to explore the potential application of using muon tomography for space-based imaging applications, in collaboration with the European Space Agency (ESA).
+**Past Research**
 - Research in experimental particle physics. Check my website https://olinpinto.github.io/
 - Three-dimensional modelling of particle showers in highly granular calorimeters
-
+ 
 
 <!-- **Programming**
 - C++ for physics research as well as data science
