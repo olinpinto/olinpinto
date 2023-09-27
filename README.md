@@ -1,7 +1,7 @@
 # Hi there 👋, Welcome to my personal git repo. 
 
 **Research**
-- Exploration of Lunar and Martian environment using muon tomography 
+- Monte Carlo study using GEANT4, to explore the potential application of using muon tomography for space-based imaging applications, in collaboration with the European Space Agency (ESA).
 - Research in experimental particle physics. Check my website https://olinpinto.github.io/
 - Three-dimensional modelling of particle showers in highly granular calorimeters
 
